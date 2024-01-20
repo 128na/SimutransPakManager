@@ -5,7 +5,7 @@
             "pakset_url": "https://github.com/wa-st/pak-nippon/releases/download/v0.6.2/pak.nippon-v0.6.2.zip",
             "pakset_directory_name": "pak.nippon",
             "operations": [
-                {"command": "extract_all_pak_files", "url": "https://simutrans-portal.128-bit.net/articles/pak-nippon%E5%AF%BE%E5%BF%9C-%E3%82%A4%E3%83%8E%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88/download"},
+                {"command": "extract_all_pak_files", "url": "https://simutrans-portal.128-bit.net/articles/1450/download.zip"},
                 {"command": "extract_all_pak_files", "url": "https://ux.getuploader.com/wilson_simu/download/80"}
             ]
         },
